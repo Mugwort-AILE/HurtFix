@@ -1,0 +1,7 @@
+{
+  "hurfix.reload.message": "重载成功!",
+  "hurfix.setRule.message": "成功设置世界[%s]的伤害倍率至: %d!",
+  "hurfix.addRule.message": "成功添加世界[%s]的伤害倍率: %d!",
+  "hurfix.getRule.message": "世界[%s]伤害倍率: %d!",
+  "hurfix.debug.prefix": "[HurtFix|DEBUG] "
+}

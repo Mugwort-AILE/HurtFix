@@ -1,0 +1,27 @@
+
+modLoader="javafml"
+loaderVersion="[36,)"
+license="All rights reserved"
+[[mods]]
+modId="hurtfix"
+version="3.0"
+displayName="Hurt Fix"
+logoFile= "hurtfix.png"
+credits=""
+authors="Mugwort + 花染月"
+description='''
+    为我的世界添加了难度~
+'''
+
+[[dependencies.hurtfix]]
+    modId="forge"
+    mandatory=true
+    versionRange="[36,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.hurtfix]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19,1.20.2)"
+    ordering="NONE"
+    side="BOTH"

@@ -1,0 +1,7 @@
+{
+  "hurfix.reload.message": "Reload Success!",
+  "hurfix.setRule.message": "Finish set world %s damage multiplier to %d!",
+  "hurfix.addRule.message": "Finish add world %s damage multiplier with %d!",
+  "hurfix.getRule.message": "world %s damage multiplier vaule : %d!",
+  "hurfix.debug.prefix": "[HurtFix|DEBUG] "
+}
