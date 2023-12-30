@@ -1,4 +1,4 @@
-package net.github.mugwort.api.hurtfix;
+package net.github.mugwort.api.hurtfix.config;
 
 import java.util.ArrayList;
 

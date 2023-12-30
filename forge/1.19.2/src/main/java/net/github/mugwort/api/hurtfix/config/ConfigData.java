@@ -1,4 +1,4 @@
-package net.github.mugwort.api.hurtfix;
+package net.github.mugwort.api.hurtfix.config;
 
 import com.electronwill.nightconfig.core.file.FileConfig;
 import net.github.mugwort.api.mconfig.ServerConfig;
