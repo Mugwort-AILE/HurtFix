@@ -10,7 +10,7 @@ logoFile= "hurtfix.png"
 credits=""
 authors="Mugwort + 花染月"
 description='''
-    为我的世界添加了难度~
+    为Minecraft游戏增加游戏难度，防止数值膨胀
 '''
 
 [[dependencies.hurtfix]]

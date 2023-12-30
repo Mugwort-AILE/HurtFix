@@ -1,0 +1,8 @@
+
+[global]
+	#Global magnification 0 ~ 100
+	magnification = 50
+	#Played Days
+	playedDays = 0
+	whiteList = []
+

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "hurtfix",
+  "version": "3.0-DEV",
+
+  "name": "Hurtfix",
+  "description": "为Minecraft游戏增加游戏难度，防止数值膨胀",
+  "authors": [
+    "Huaranyue",
+    "Mugwort"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.github.mugwort.HurtFix"
+    ]
+  },
+  "mixins": [
+    "hurtfix.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.19",
+    "fabric-api": "*",
+    "minecraft": ">= 1.19.2",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

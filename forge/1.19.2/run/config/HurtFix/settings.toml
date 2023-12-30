@@ -1,0 +1,5 @@
+
+[setting]
+	#Whether or not to allow damage absorption to block true damage
+	AllowAbsorption = true
+
